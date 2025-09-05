@@ -32,7 +32,7 @@ This platform allows **job seekers** to search and apply for jobs, while **admin
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/job-search-platform.git
+   git clone https://github.com/soundarya0024/job-search-platform.git
    cd job-search-platform
 2.Run the project
 python job_search.py
